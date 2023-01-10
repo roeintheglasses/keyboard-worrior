@@ -1,12 +1,14 @@
 <svelte:head>
 	<title>Home</title>
 	<meta name="description" content="Keyboard Worriors" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@animxyz/core">
+
 </svelte:head>
 
 <div class="relative px-6 lg:px-8">
 	<div class="mx-auto max-w-3xl pt-20 pb-32 sm:pt-48 sm:pb-40">
 		<div>
-			<div>
+			<div class="xyz-in" xyz="fade up big">
 				<h1 class="text-4xl font-bold tracking-tight sm:text-center sm:text-6xl">
 					Keystrokes
 				</h1>

@@ -2,7 +2,6 @@
 	import '../app.postcss';
 
 	import Header from './Header.svelte';
-	import { Footer, FooterCopyright, FooterLink, FooterLinkGroup } from 'flowbite-svelte';
 </script>
 
 <div class="app">
