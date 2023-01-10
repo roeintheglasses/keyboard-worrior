@@ -1,3 +1,8 @@
 {
-  "devDependencies": {}
+  "name": "keystrokes",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ]
 }

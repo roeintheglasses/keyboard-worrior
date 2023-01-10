@@ -1,4 +1,6 @@
 {
+  "name": "keystroeks-server",
+  "version": "0.0.1",
   "dependencies": {
     "crawlee": "^3.1.4",
     "dayjs": "^1.11.7",
