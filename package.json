@@ -4,5 +4,10 @@
   "workspaces": [
     "client",
     "server"
-  ]
+  ],
+  "scripts": {
+    "cdev": "cd ./client && vite dev",
+    "cbuild": "cd ./client vite build",
+    "cpreview": "cd ./client vite preview"
+  }
 }
